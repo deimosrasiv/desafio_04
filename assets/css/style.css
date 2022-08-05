@@ -1,0 +1,51 @@
+<style>@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+</style>body {
+    font-family: 'Roboto', Medium;
+
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: 'Robot.Light';
+}
+
+a,
+p {
+    font-family: 'Robot.Light';
+}
+
+small {
+    font-family: 'Robot.Light';
+    font-size: 12px;
+}
+
+
+.pago {
+    width: 40px;
+}
+
+.certificado {
+    width: 50px;
+}
+
+.logo {
+    width: 140px;
+}
+
+.rss {
+    color: white;
+}
+
+.logotienda {
+    width: 100px;
+    align-items: left;
+}
+
+.enlace {
+    text-decoration: none;
+}
